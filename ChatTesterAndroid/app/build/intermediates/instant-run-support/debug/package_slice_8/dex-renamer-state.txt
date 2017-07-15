@@ -1,0 +1,4 @@
+#Sat Jul 15 18:59:03 JST 2017
+base.0=C\:\\Users\\chie\\Desktop\\20170701\\ChatTesterAndroid\\ChatTesterAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=C\:\\Users\\chie\\Desktop\\20170701\\ChatTesterAndroid\\ChatTesterAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\a84a5bacf54841687c43f7a88bb282951c2708c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_472043985b8edc5072435852f01f38edef52c2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\40c7a56aace048ec630bbf6aebf9b0e3fd8e92cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_8550fad4da6b9c9d5f00ec4bed2192a02ede5bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\60d1ff1f99af7b41a6f39b1a6f1ac3f66898e9c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_7930c2c5c2c64816a4d3ea9be16a38cc3076cb1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\04b1570277804eb75931e2fad14616d1029a050d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_fac29c78bdb94b30772ea7f22d90dba4ddfb27c5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_55338e7f223d80198c35eb9783ffcab03cbd8dae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\11a97e3ba91d3d2501f34112ebaf85781ea13446\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_504fde230d9f8204f5136d839d237084e1dc5d14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\dbf5cf4982104ae27aa091e4a6821b603f314449\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_8f4efb8b5c65effae841fa895e5f5394838630b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\4321f0a176571fc9fa375468222dc9acdab281c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_9580ac4a178473d5c72a2a843fdb8e55d56ad671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\fb3c515b805b22dccf317eab9156f3cca236214a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_c80be6f3bfee4a9da7f64204abefe26e21a072ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\5b616c64b45f775650aa7168eb396e2b52fe5672\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_1fb6870e8432f0d9080af9fc369f5c530d63af81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\bd4263ae43a0178045540a932b92d794b9d51baf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_b19a766c29e0852ce16b5e5f6e50cbfbce9b30e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\c57e3af21fbb4fdc882cd4abd531f475bf05e21b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_4247b1c478f61a770a963609f6a3c902889890ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\09a8ea7f5180ee51a0fe08f0337e50fea5207d7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_fe73b9670b497a9fc35140892146cad21632e898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\d3814589912e9aa0d17658976dc86dec30a09cbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_65e9a9c6627bbd21027670d954455a5895c8e92b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\3b669ae899aae47dfdff15dfd9aa096c59def661\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_826f18284ea4f0fe5dd4d724c614be3958539569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\d2aec1b86834ff4bf32f0e128083330946794cc9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_0b754ce88c2f3e2621c976c88323a6f69aac070f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\9b05580c281dc974dc0418581a3f005ba2d4dfc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_cc83745f44d98d96edc6883c7e8ffb62ffe527cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0d0497c5f412346175e70e70db6a0bac57c72a1">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_13bb5f9bbd8cc35929af7fe3ceb5e423cec160d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\79f5fd02fab8ac2adc568afedbf97134ff620c41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_e478fc6b2a18dc49e05e9a90ec85160eb303523a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\49cc2e5b1cef061922fd8dfca8cfbc7c406fc204\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_8cf66aeb21c049b3c2323cd3bdc8378180ede71c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\021093c24e0b39c13ef717c34fbafc1facd781d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_44017262957f07a092639380955a8db82e7650f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\172a5fec746e290c16af193052b8f6c4f5c6d956\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_4e0e3e79e5873d27d48febb9b975c532369444db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_f0c22c437c7ad3b46d4def6bd46ac2ff1c704148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\a61250fc28676a8113182a7f9b57c92dddd8e7b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_5445df666b64f76a08926355c83c8fe3eaa34ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chie\.android\build-cache\269526bf3c1a954253f51709d8987ffac5bb1e0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\chie\Desktop\20170701\ChatTesterAndroid\ChatTesterAndroid\app\build\intermediates\pre-dexed\debug\classes_20a1916b5d6e1e45fcd88cea48c8d1c619a109f9.jar" />
+    </item>
+
+</items>

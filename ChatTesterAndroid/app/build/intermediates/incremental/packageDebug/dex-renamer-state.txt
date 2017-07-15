@@ -1,0 +1,7 @@
+#Sat Jul 15 13:08:17 JST 2017
+base.0=C\:\\Users\\chie\\Desktop\\20170701\\ChatTesterAndroid\\ChatTesterAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_13bb5f9bbd8cc35929af7fe3ceb5e423cec160d3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\chie\\Desktop\\20170701\\ChatTesterAndroid\\ChatTesterAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_55338e7f223d80198c35eb9783ffcab03cbd8dae\\classes.dex
+base.1=C\:\\Users\\chie\\Desktop\\20170701\\ChatTesterAndroid\\ChatTesterAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_55338e7f223d80198c35eb9783ffcab03cbd8dae
+file.0=C\:\\Users\\chie\\Desktop\\20170701\\ChatTesterAndroid\\ChatTesterAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_13bb5f9bbd8cc35929af7fe3ceb5e423cec160d3\\classes.dex
